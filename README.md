@@ -21,8 +21,8 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
    <img src="https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480" alt="Description de l'image" width="300">
    
 
-   -Nous avons renommé la colonne "£" en "montant"
-
+   -Nous avons renommé la colonne "£" en "montant (£)" et nous avons transformé cette colonne au préalable de type texte en décimal fixe
+   <img src="https://github.com/user-attachments/assets/78733526-b5ce-437f-963f-6d526221f81b" alt="Description de l'image" width="300">
 
    
 3. **Modélisation des données** : Création de relations entre les différentes tables pour structurer l'analyse dans Power BI.
