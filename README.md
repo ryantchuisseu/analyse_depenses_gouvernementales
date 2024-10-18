@@ -24,6 +24,8 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
    -Nous avons renommé la colonne "£" en "montant (£)" et nous avons transformé cette colonne au préalable de type texte en décimal fixe
    <img src="https://github.com/user-attachments/assets/78733526-b5ce-437f-963f-6d526221f81b" alt="Description de l'image" width="300">
 
+   -Nous avons veillé à regarder s'il yavait des doublons(il n'y en avait pas), pas de valeurs manquantes, ni de valeurs erronées
+
    
 3. **Modélisation des données** : Création de relations entre les différentes tables pour structurer l'analyse dans Power BI.
 4. **Visualisation** : Conception de tableaux de bord Power BI comprenant des graphiques interactifs, des filtres, et des mesures clé comme les dépenses totales, les dépenses par fournisseur et par catégorie.
