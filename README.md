@@ -18,7 +18,8 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
   
    <img src="https://github.com/user-attachments/assets/e8d918ab-7f77-409f-8bda-3216b1b4c943" alt="Description de l'image" width="300">
 
-   ![Nouvelle colonnes](https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480)
+   <img src="https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480" alt="Description de l'image" width="300">
+   
 
    -Nous avons renommé la colonne "£" en "montant"
 
