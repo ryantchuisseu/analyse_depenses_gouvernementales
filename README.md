@@ -15,9 +15,12 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
 1. **Nettoyage et préparation des données** : Traitement des données brutes pour corriger les erreurs et incohérences.
 
    -La colonne date était sous le format MM/DD/YYYY et je devais d'abord la transformer sous le format DD/MM/YYYY en scindant le colonne en 3 avec un délimiteur et en faisant une nouvelle colonne
-   ![Format date MM-DD-YYYY](https://github.com/user-attachments/assets/e8d918ab-7f77-409f-8bda-3216b1b4c943)
-   ![3 colonnes](https://github.com/user-attachments/assets/c9fd5f98-961c-4007-85ca-232ab7653a87)
-![Nouvelle colonnes](https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480)
+  
+   <img src="![Format date MM-DD-YYYY](https://github.com/user-attachments/assets/e8d918ab-7f77-409f-8bda-3216b1b4c943)" alt="Description de l'image" width="300">
+
+   ![Nouvelle colonnes](https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480)
+
+   -Nous avons renommé la colonne "£" en "montant"
 
 
    
