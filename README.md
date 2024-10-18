@@ -16,7 +16,7 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
 
    -La colonne date était sous le format MM/DD/YYYY et je devais d'abord la transformer sous le format DD/MM/YYYY en scindant le colonne en 3 avec un délimiteur et en faisant une nouvelle colonne
   
-   <img src="![Format date MM-DD-YYYY](https://github.com/user-attachments/assets/e8d918ab-7f77-409f-8bda-3216b1b4c943)" alt="Description de l'image" width="300">
+   <img src="https://github.com/user-attachments/assets/e8d918ab-7f77-409f-8bda-3216b1b4c943" alt="Description de l'image" width="300">
 
    ![Nouvelle colonnes](https://github.com/user-attachments/assets/3da49a46-4fc3-4640-a486-695994331480)
 
