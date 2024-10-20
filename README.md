@@ -44,7 +44,7 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
 - **GitHub** : Pour la gestion du code et la publication du projet.
 
 ## Captures d'écran
-Voici quelques exemples des visualisations créées dans Power BI :
+Voici quelques exemples des visualisations créées dans Power BI:
 
 ![Capture d'écran du tableau de bord](URL_image_tableau_de_bord.png)
 *(Insérer des images des tableaux de bord pour rendre le projet plus visuel)*
