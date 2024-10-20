@@ -26,6 +26,8 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
 
    -Nous avons veillé à regarder s'il yavait des doublons(il n'y en avait pas), pas de valeurs manquantes, ni de valeurs erronées
 
+   -Après avoir cherché longuement pourquoi nous avions des nombre négatifs dans la colonnes montants, nous sommes arrivés à la conclusion que ces montants devaient corespondre à des achats non réalisés, ou des remboursements donc qu'ils restaient valable dans notre tableau.
+
    
 3. **Modélisation des données** : Création de relations entre les différentes tables pour structurer l'analyse dans Power BI.
 4. **Visualisation** : Conception de tableaux de bord Power BI comprenant des graphiques interactifs, des filtres, et des mesures clé comme les dépenses totales, les dépenses par fournisseur et par catégorie.
