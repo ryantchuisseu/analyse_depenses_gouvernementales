@@ -48,9 +48,6 @@ Voici quelques exemples des visualisations créées dans Power BI:
 ![Depenses gouvernementales Dashboard](https://github.com/user-attachments/assets/9bf690d1-65ec-49ba-aaad-e654a30e499b)
 
 
-![Capture d'écran du tableau de bord](URL_image_tableau_de_bord.png)
-*(Insérer des images des tableaux de bord pour rendre le projet plus visuel)*
-
 ## Comment Visualiser le Projet
 Pour consulter le projet :
 1. [[Télécharger le fichier Power BI](lien_vers_le_fichier.pbix)](https://github.com/ryantchuisseu/analyse_depenses_gouvernementales/blob/main/Les%20d%C3%A9penses%20gouvernementales%20en%20Novembre.pbix) et l'ouvrir dans Power BI Desktop.
