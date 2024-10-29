@@ -50,7 +50,7 @@ Voici quelques exemples des visualisations créées dans Power BI:
 
 ## Comment Visualiser le Projet
 Pour consulter le projet :
-1. [[Télécharger le fichier Power BI](lien_vers_le_fichier.pbix)](https://github.com/ryantchuisseu/analyse_depenses_gouvernementales/blob/main/Les%20d%C3%A9penses%20gouvernementales%20en%20Novembre.pbix) et l'ouvrir dans Power BI Desktop.
+1(https://github.com/ryantchuisseu/analyse_depenses_gouvernementales/blob/main/Les%20d%C3%A9penses%20gouvernementales%20en%20Novembre.pbix) et l'ouvrir dans Power BI Desktop.
 2. Naviguer à travers les différents tableaux de bord et utiliser les filtres pour explorer les données.
 
 ## Conclusion
