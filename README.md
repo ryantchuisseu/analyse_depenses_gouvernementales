@@ -45,6 +45,8 @@ Le but de cette analyse est de fournir des insights visuels et accessibles sur l
 
 ## Captures d'écran
 Voici quelques exemples des visualisations créées dans Power BI:
+![Depenses gouvernementales Dashboard](https://github.com/user-attachments/assets/9bf690d1-65ec-49ba-aaad-e654a30e499b)
+
 
 ![Capture d'écran du tableau de bord](URL_image_tableau_de_bord.png)
 *(Insérer des images des tableaux de bord pour rendre le projet plus visuel)*
